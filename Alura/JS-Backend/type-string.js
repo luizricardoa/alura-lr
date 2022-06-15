@@ -3,7 +3,7 @@ const texto2 = 'Ola, Mundo!';
 const senha = "senhaSuperSegura456!";
 const stringDeNumeros = "34567";
 
-const citacao = "Meu nom eh ";
+const citacao = "Meu nome eh ";
 const meuNome = "Luiz";
 
 // concatenacao (+)
