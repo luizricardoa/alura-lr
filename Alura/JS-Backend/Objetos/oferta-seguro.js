@@ -31,5 +31,5 @@ function oferecerSeguro(obj){
 }
 
 console.log(Object.values(cliente))
-console.log(Object.entries(cliente))
+//console.log(Object.entries(cliente))
 oferecerSeguro(cliente)
